@@ -1,0 +1,33 @@
+
+
+body {
+  background-color: #e0f7fa;
+  color: #004d40;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+
+
+form {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: left;
+}
+
+
+
+.guardar {
+  margin-top: 15px;
+  padding: 8px 15px;
+  background-color: #00796b;
+  color: white;
+  border-radius: 4px;
+
+}
+footer{
+   padding-bottom: 50px;
+}
+
